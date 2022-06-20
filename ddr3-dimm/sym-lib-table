@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "DIMM")(type "KiCad")(uri "${KIPRJMOD}/DIMM.kicad_sym")(options "")(descr ""))
+)
