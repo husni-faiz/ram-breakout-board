@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/home/drac98/workspace/gsoc2022/SMBus & Motherboard/ddr3-dimm/ddr3-dimm.kicad_sch")
-    (date "Mon 20 Jun 2022 06:51:50 PM +0530")
+    (date "Tue 21 Jun 2022 02:44:19 PM +0530")
     (tool "Eeschema (6.0.5)")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
